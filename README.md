@@ -49,7 +49,7 @@ Ce script Bash est conçu pour automatiser le processus de traitement des donné
 - `fcAttributeType`: Type d'attribut pour FeatureCounts.
 
 ### Execution
-    ```
+    ```bash
     sbatch 00_launch_WF.sh
     ```
 ## Notes
